@@ -8,14 +8,14 @@ print <<< EOH
 		</div>
 		<div class="pattern">
 			<div class="tel">
-				<img src="{$level}assets/images/footer/icon_tel.png">
+				<img src="{$level}common/img/footer/icon_tel.png">
 				<p>お電話でのお問い合わせ</p>
 				<p>052-763-6697</p>
 				<p>(代表)</p>
 				</p>
 			</div>
 			<div class="form">
-				<img src="{$level}assets/images/footer/icon_form.png">
+				<img src="{$level}common/img/footer/icon_form.png">
 				<p>フォームからのお問い合わせ</p>
 				<a class="btn_green" href="">お問い合わせはこちら</a>
 			</div>
@@ -103,7 +103,7 @@ print <<< EOH
 				</div>
 			</div>
 			<div class="company">
-				<img src="{$level}assets/images/footer/logo_com.png" class="logo">
+				<img src="{$level}common/img/footer/logo_com.png" class="logo">
 				<p>株式会社石川マテリアル</p>
 				<p>
 					本社<br>
@@ -112,7 +112,7 @@ print <<< EOH
 					TEL 052-763-6697<br>
 					FAX 052-763-6695
 				</p>
-				<img src="{$level}assets/images/footer/img_marks.png" class="marks">
+				<img src="{$level}common/img/footer/img_marks.png" class="marks">
 			</div>
 		</div>
 	</article>

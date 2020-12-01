@@ -86,7 +86,7 @@ header .logo {
   display: block;
   width: 184px;
   height: 72px;
-  background-image: url(../images/header/logo_com.png);
+  background-image: url(../img/header/logo_com.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -165,7 +165,7 @@ header .menu .btn .recruit {
 header .menu .btn .recruit::before {
   width: 26px;
   height: 24px;
-  background-image: url(../images/header/icon_recruit.png);
+  background-image: url(../img/header/icon_recruit.png);
   margin: 14px 0 0 -49px;
 }
 header .menu .btn .contact {
@@ -174,7 +174,7 @@ header .menu .btn .contact {
 header .menu .btn .contact::before {
   width: 21px;
   height: 16px;
-  background-image: url(../images/header/icon_contact.png);
+  background-image: url(../img/header/icon_contact.png);
   margin: 17px 0 0 -52px;
 }
 header .menu .btn .tel {
@@ -435,7 +435,7 @@ footer .copyright p {}
   display: block;
   width: 7px;
   height: 12px;
-  background-image: url(../images/common/arrow_white_right.png);
+  background-image: url(../img/common/arrow_white_right.png);
   background-repeat: no-repeat;
   background-size: contain;
 }

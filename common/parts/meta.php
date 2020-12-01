@@ -7,8 +7,8 @@ print <<< EOH
 <meta name="robots" content="noindex">
 <meta name="viewport" content="width=device-width">
 <meta name="format-detection" content="telephone=no">
-<script src="{$level}assets/js/jquery.js"></script>
-<script src="{$level}assets/js/script.js"></script>
-<link href="{$level}assets/css/style.css" rel="stylesheet">
+<script src="{$level}common/js/jquery.js"></script>
+<script src="{$level}common/js/script.js"></script>
+<link href="{$level}common/css/style.css" rel="stylesheet">
 EOH;
 ?>

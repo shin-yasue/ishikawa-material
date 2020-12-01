@@ -11,14 +11,14 @@ $category = 'ホーム';
 <title>紙・鉄のリサイクル　株式会社石川マテリアル</title>
 
 <?php
-include($level.'assets/parts/meta.php');
+include($level.'common/parts/meta.php');
 ?>
 
 </head>
 <body>
 
 <?php
-include($level.'assets/parts/header.php');
+include($level.'common/parts/header.php');
 ?>
 
 <main>
@@ -47,7 +47,7 @@ include($level.'assets/parts/header.php');
 
 
 <?php
-include($level.'assets/parts/footer.php');
+include($level.'common/parts/footer.php');
 ?>
 
 </body>
